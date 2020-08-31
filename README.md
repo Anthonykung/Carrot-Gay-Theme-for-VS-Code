@@ -1,13 +1,28 @@
-# README
-## This is the README for your extension "carrot-gay-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+<center>
+  <img src="https://vault.hailiga.org/Projects/Carrot-Gay-Theme/Images/Carrot-Gay-Theme.png" width="50%">
+</center>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+# Carrot Gay Theme for VS Code
+It is basically Material Theme with a slight hint of pink, color described by carrot as "gay"
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Installation
 
-**Enjoy!**
+### Using Visual Studio Code Marketplace
+
+1. Search for Carrot Gay Theme on Visual Studio Code Marketplace
+
+2. Install the theme extension
+
+3. Change your color theme to Carrot Gay Theme
+
+4. You're all set!
+
+### Using GitHub
+
+GitHub Repo: https://github.com/Anthonykung/Carrot-Gay-Theme-for-VS-Code
+
+1. Clone this repo to your `<user home>/.vscode/extensions` directory
+
+2. Change your color theme to Carrot Gay Theme
+
+3. You're all set!
