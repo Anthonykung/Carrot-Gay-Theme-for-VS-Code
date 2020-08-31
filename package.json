@@ -3,7 +3,7 @@
     "publisher": "Anthonykung",
     "displayName": "Carrot Gay Theme",
     "description": "It is basically Material Theme with a slight hint of pink, color described by carrot as \"gay\"",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.48.0"
     },
@@ -24,10 +24,10 @@
     "bugs": {
         "url": "https://github.com/Anthonykung/Carrot-Gay-Theme-for-VS-Code/issues",
         "email": "hi@anth.dev"
-      },
+    },
     "repository": {
-      "type": "git",
-      "url": "https://github.com/Anthonykung/Carrot-Gay-Theme-for-VS-Code.git"
+        "type": "git",
+        "url": "https://github.com/Anthonykung/Carrot-Gay-Theme-for-VS-Code.git"
     },
     "homepage": "https://github.com/Anthonykung/Carrot-Gay-Theme-for-VS-Code/blob/master/README.md"
 }
