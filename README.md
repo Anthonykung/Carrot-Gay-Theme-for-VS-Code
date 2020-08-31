@@ -9,6 +9,8 @@ It is basically Material Theme with a slight hint of pink, color described by ca
 
 ### Using Visual Studio Code Marketplace
 
+VS Code Marketplace Listing: https://marketplace.visualstudio.com/items?itemName=Anthonykung.carrot-gay-theme
+
 1. Search for Carrot Gay Theme on Visual Studio Code Marketplace
 
 2. Install the theme extension

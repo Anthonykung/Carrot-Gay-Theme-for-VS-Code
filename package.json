@@ -1,5 +1,6 @@
 {
     "name": "carrot-gay-theme",
+    "publisher": "Anthonykung",
     "displayName": "Carrot Gay Theme",
     "description": "It is basically Material Theme with a slight hint of pink, color described by carrot as \"gay\"",
     "version": "0.0.1",
@@ -17,5 +18,16 @@
                 "path": "./themes/carrot-gay-theme.json"
             }
         ]
-    }
+    },
+    "icon": "Images/Carrot-Gay-Theme.png",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "bugs": {
+        "url": "https://github.com/Anthonykung/Carrot-Gay-Theme-for-VS-Code/issues",
+        "email": "hi@anth.dev"
+      },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Anthonykung/Carrot-Gay-Theme-for-VS-Code.git"
+    },
+    "homepage": "https://github.com/Anthonykung/Carrot-Gay-Theme-for-VS-Code/blob/master/README.md"
 }
