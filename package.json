@@ -1,0 +1,21 @@
+{
+    "name": "carrot-gay-theme",
+    "displayName": "Carrot Gay Theme",
+    "description": "It is basically Material Theme with a slight hint of pink, color described by carrot as \"gay\"",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Carrot Gay Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/-color-theme.json"
+            }
+        ]
+    }
+}
