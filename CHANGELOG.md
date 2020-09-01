@@ -6,4 +6,27 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+### Change
+
+- Color scheme improvement
+- Terminal color change
+
+## [0.0.1] - 2020-08-30
+
+### Added
+
+- New theme file
+
+## [0.1.0] - 2020-08-30
+
+### Removed
+
+- Unused test files
+- Unused defaults
+
+## [0.2.0] - 2020-08-31
+
+### Added
+
+- Theme example screenshot
+
