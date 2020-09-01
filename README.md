@@ -5,6 +5,11 @@
 # Carrot Gay Theme for VS Code
 It is basically Material Theme with a slight hint of pink, color described by carrot as "gay"
 
+## Example Screenshot
+<center>
+  <img src="https://vault.hailiga.org/Projects/Carrot-Gay-Theme/Images/Theme-Example.png" width="80%">
+</center>
+
 ## Installation
 
 ### Using Visual Studio Code Marketplace
