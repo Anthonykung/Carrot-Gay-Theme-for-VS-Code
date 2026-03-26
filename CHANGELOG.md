@@ -4,12 +4,15 @@ All notable changes to the "carrot-gay-theme" extension will be documented in th
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [0.3.0] - 2026-03-25
 
-### Change
+### Changed
 
-- Color scheme improvement
-- Terminal color change
+Microsoft said I haven't made an update in over 6 months (more like 6 years XD) so here's an update 😜
+
+- Updated `carrot-gay-theme.json` to match the current exported theme
+- Refreshed the extension description to reflect the new palette
+- Replaced the old minimal Material-derived palette with the full current UI and token colors
 
 ## [0.0.1] - 2020-08-30
 
@@ -29,4 +32,3 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Added
 
 - Theme example screenshot
-
